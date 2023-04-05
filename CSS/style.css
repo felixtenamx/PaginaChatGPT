@@ -23,6 +23,11 @@
     display: flex;
     justify-content: space-between;
   }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+  }
   
   nav a {
     color: #fff;
