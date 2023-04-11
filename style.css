@@ -21,17 +21,15 @@
   nav ul {
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;    
   }
 
-  /* .nav-list {
-    display: flex;
-    list-style: none;
-  } */
+ 
   
   nav a {
     color: #fff;
     text-decoration: none;
+    padding-left: 100px;
   }
   
   .hero {
